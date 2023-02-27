@@ -80,7 +80,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/RAFIQ-CLOUD/Gojan-X-Educationz-Pro
+git clone https://github.com/RAFIQ-CLOUD/Gojan-X-Educationz-Demo
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
